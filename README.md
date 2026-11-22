@@ -49,9 +49,9 @@ python src/predict.py "NASA unveils new Mars rover mission"
 
 ## Kaggle notebook
 
-`notebooks/kaggle_notebook.ipynb` is self-contained (downloads the CSVs from
-this repo, needs no API keys). Upload it via Kaggle → New Notebook → Upload,
-or File → Import from GitHub URL.
+`notebooks/kaggle_notebook.ipynb` is self-contained (downloads the public
+AG News CSVs itself, needs no API keys). Upload it via Kaggle → New Notebook → Upload,
+or paste the notebook URL via File → Import from URL.
 
 ## Dataset credit
 
